@@ -1,0 +1,15 @@
+1/0/0: Profile occupancy grid code
+0/0/0: Move urban climbing kit file to evernote and delete file from write room
+0/0/0: Work on finishing initial set of cards
+0/0/0: Download collection of schaum's outlines
+0/0/0: Read GTD + git-org pages in browser
+0/0/0: Verify servos (+ other things) needed for crepebot -- ORDER!
+0/0/0: Call mechanic about bike - see what could be done, be honest
+0/0/0: Print out and condense skillbuilder notes
+0/0/0: Throw 3 things away
+0/0/0: Check picture of math books on iphone - make sure you have all
+0/0/0: Figure out where rings/rock rings could be put
+0/0/0: Email Evan about papers he's read/books he recommends/etc
+0/0/0: Email Koch about research during school year
+0/0/0: Ma6a graph code, finish! (code on mac, I think)
+0/0/0: Make display have proper axes (ie not 1000s)
