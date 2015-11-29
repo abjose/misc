@@ -4,11 +4,13 @@ import sys
 
 # change these
 properties_drawer = """:PROPERTIES:
+:business-y:  0
+:complexity:  0
+:cost:        0
 :interesting: 0
-:profitable:  0
-:expense:     0
-:difficulty:  0
+:priority:    0
 :started:     C-c-!
+:time:        0
 :END:
 """
 
@@ -22,7 +24,7 @@ with open(file_name) as f:
         if was_header and ":PROPERTIES:" not in line:
             output_lines.append(properties_drawer)
         # Remember if we find a header.
-        was_header = line.strip()[0] == "*"
+        was_header = len(line.strip()) > 0 and line.strip()[0] == "*"
         output_lines.append(line)
 
     # just in case...
